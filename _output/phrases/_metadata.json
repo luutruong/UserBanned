@@ -1,0 +1,44 @@
+{
+    "option.tlUserBanned_allowNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "378d1fe31aab741feb7e64c138ad2719"
+    },
+    "option.tlUserBanned_view.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "248a8f4e5771404bf8e91f7e6a62a1bf"
+    },
+    "option_explain.tlUserBanned_allowNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tlUserBanned_view.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.tl_UserBanned.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "a73f3f3c1a8de7c2e1672a2ea2b4784e"
+    },
+    "option_group_description.tl_UserBanned.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "tl_user_banned_your_account_banned_cannot_post.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "5873c328077063b973cf49caeeea04b2"
+    }
+}

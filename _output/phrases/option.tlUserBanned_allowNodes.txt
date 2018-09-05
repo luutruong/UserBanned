@@ -1,0 +1,1 @@
+Allow banned users post/reply in nodes

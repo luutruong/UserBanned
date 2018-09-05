@@ -1,0 +1,17 @@
+{
+    "XF-Entity-Forum_Truonglv-UserBanned-XF-Entity-Forum.json": {
+        "hash": "c24af365bbac68dff1951721b67eb03b"
+    },
+    "XF-Entity-Thread_Truonglv-UserBanned-XF-Entity-Thread.json": {
+        "hash": "f06c28d33e35cbb757b36a27c531ed28"
+    },
+    "XF-Pub-Controller-Forum_Truonglv-UserBanned-XF-Pub-Controller-Forum.json": {
+        "hash": "433c2e432928c87e08da39ef02f9e1be"
+    },
+    "XF-Pub-Controller-Index_Truonglv-UserBanned-XF-Pub-Controller-Index.json": {
+        "hash": "ab44fa30a431c2205466124720c30ea2"
+    },
+    "XF-Pub-Controller-Thread_Truonglv-UserBanned-XF-Pub-Controller-Thread.json": {
+        "hash": "5831962056daf8da2754260f9d948db3"
+    }
+}
