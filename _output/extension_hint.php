@@ -21,6 +21,12 @@ namespace Truonglv\UserBanned\XF\Pub\Controller
     class XFCP_Index extends \XF\Pub\Controller\Index
     {
     }
+    class XFCP_Misc extends \XF\Pub\Controller\Misc
+    {
+    }
+    class XFCP_Search extends \XF\Pub\Controller\Search
+    {
+    }
     class XFCP_Thread extends \XF\Pub\Controller\Thread
     {
     }
