@@ -10,15 +10,17 @@ use XF\Mvc\ParameterBag;
 use Truonglv\UserBanned\Listener;
 
 /**
- * Class WhatsNewPost
+ * Class FindThreads
  * @package Truonglv\UserBanned\XF\Pub\Controller
  * @inheritdoc
  */
-class WhatsNewPost extends XFCP_WhatsNewPost
+class FindThreads extends XFCP_FindThreads
 {
     protected function preDispatchType($action, ParameterBag $params)
     {
-        Listener::allowBannedAccessIfNeeded();
+        if ($action === 'Started') {
+            Listener::allowBannedAccessIfNeeded();
+        }
 
         parent::preDispatchType($action, $params);
     }

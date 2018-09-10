@@ -10,11 +10,11 @@ use XF\Mvc\ParameterBag;
 use Truonglv\UserBanned\Listener;
 
 /**
- * Class WhatsNewPost
+ * Class Account
  * @package Truonglv\UserBanned\XF\Pub\Controller
  * @inheritdoc
  */
-class WhatsNewPost extends XFCP_WhatsNewPost
+class Account extends XFCP_Account
 {
     protected function preDispatchType($action, ParameterBag $params)
     {

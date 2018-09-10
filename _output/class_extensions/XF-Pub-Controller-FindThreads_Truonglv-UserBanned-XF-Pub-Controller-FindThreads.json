@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Pub\\Controller\\FindThreads",
+    "to_class": "Truonglv\\UserBanned\\XF\\Pub\\Controller\\FindThreads",
+    "execute_order": 10,
+    "active": true
+}

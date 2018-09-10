@@ -5,11 +5,20 @@
     "XF-Entity-Thread_Truonglv-UserBanned-XF-Entity-Thread.json": {
         "hash": "f06c28d33e35cbb757b36a27c531ed28"
     },
+    "XF-Pub-Controller-Account_Truonglv-UserBanned-XF-Pub-Controller-Account.json": {
+        "hash": "a3f17dca5a8f1e9b508e2e6fd004b46d"
+    },
+    "XF-Pub-Controller-FindThreads_Truonglv-UserBanned-XF-Pub-Controller-FindThreads.json": {
+        "hash": "a2a970732b0210dc4086b84bcbf48d34"
+    },
     "XF-Pub-Controller-Forum_Truonglv-UserBanned-XF-Pub-Controller-Forum.json": {
         "hash": "433c2e432928c87e08da39ef02f9e1be"
     },
     "XF-Pub-Controller-Index_Truonglv-UserBanned-XF-Pub-Controller-Index.json": {
         "hash": "ab44fa30a431c2205466124720c30ea2"
+    },
+    "XF-Pub-Controller-Logout_Truonglv-UserBanned-XF-Pub-Controller-Logout.json": {
+        "hash": "ae4a9c620c94df9af52db1b5d4773ea3"
     },
     "XF-Pub-Controller-Misc_Truonglv-UserBanned-XF-Pub-Controller-Misc.json": {
         "hash": "cb834584dbd7ac949356bfcd2ffe7c8b"
